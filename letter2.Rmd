@@ -31,5 +31,5 @@ output:
 <div class="piclist">
  <div class="picbox">
   <div class="box front"><h2> 点击彩蛋: 老婆来啦！！！</h2></div>
-   <div class="box back"><img src="image/lizi1.jpg" alt=""></div>
+   <div class="box back"><img src="image/lizi1.gif" alt=""></div>
   </div>
